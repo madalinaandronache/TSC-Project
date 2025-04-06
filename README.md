@@ -201,3 +201,6 @@ Prezentam in detaliu functionalitatea hardware a device-ului:
 | GPIO21       | SD Card MOSI                        | Scriere date pe card microSD                                          |
 | GPIO4        | SD Card CLK                         | Semnal de clock pentru card microSD (SPI)                             |
 
+## 5. Observatii
+
+Fun to make, dar mult prea solicitant. Realizat in aproximativ 60 h. 
