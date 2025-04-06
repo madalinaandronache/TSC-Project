@@ -23,7 +23,8 @@ dispozitiv complet funcțional, pornind de la specificațiile sistemului până 
 
 ## 1. Diagrama bloc
 
-Insereaza
+![Hardware Diagram](Images/diagram.svg)
+
 
 ## 2. BOM - Bill of Materials
 
