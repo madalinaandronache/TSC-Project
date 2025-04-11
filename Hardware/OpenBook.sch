@@ -2733,7 +2733,7 @@ DIN A3, landscape with location and doc. field</description>
 <part name="SUPPLY23" library="Piese_tudose" library_urn="urn:adsk.wipprod:fs.file:vf.1OcNcoLTQzqSI2vLbiFdWQ" deviceset="GND-BAR" device="" value="GND"/>
 <part name="R2-PINH" library="Piese_tudose" library_urn="urn:adsk.wipprod:fs.file:vf.1OcNcoLTQzqSI2vLbiFdWQ" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="" package3d_urn="urn:adsk.eagle:package:47628376/1" value="10K"/>
 <part name="R1-PINH" library="Piese_tudose" library_urn="urn:adsk.wipprod:fs.file:vf.1OcNcoLTQzqSI2vLbiFdWQ" deviceset="ESP32_WROVER_EAGLE-LTSPICE_R" device="" package3d_urn="urn:adsk.eagle:package:47628376/1" value="10K"/>
-<part uuid="2882400016" name="C1" library="Piese_tudose" library_urn="urn:adsk.wipprod:fs.file:vf.1OcNcoLTQzqSI2vLbiFdWQ" deviceset="EAGLE-LTSPICE_C" device="" package3d_urn="urn:adsk.eagle:package:47627288/1" override_locally_modified="yes" value="100nF"/>
+<part uuid="2882400016" name="C1" library="Piese_tudose" library_urn="urn:adsk.wipprod:fs.file:vf.1OcNcoLTQzqSI2vLbiFdWQ" deviceset="EAGLE-LTSPICE_C" device="" package3d_urn="urn:adsk.eagle:package:47627288/1" value="100nF"/>
 <part name="C2" library="Piese_tudose" library_urn="urn:adsk.wipprod:fs.file:vf.1OcNcoLTQzqSI2vLbiFdWQ" deviceset="EAGLE-LTSPICE_C" device="" package3d_urn="urn:adsk.eagle:package:47627288/1" value="100nF"/>
 <part name="SUPPLY24" library="Piese_tudose" library_urn="urn:adsk.wipprod:fs.file:vf.1OcNcoLTQzqSI2vLbiFdWQ" deviceset="GND-BAR" device="" value="GND"/>
 <part uuid="2882400015" name="PFMF.050.1" library="Piese_tudose" library_urn="urn:adsk.wipprod:fs.file:vf.1OcNcoLTQzqSI2vLbiFdWQ" deviceset="ESP32C6_VARISTOR" device="CN1812" package3d_urn="urn:adsk.eagle:package:47627054/1"/>

@@ -1366,7 +1366,7 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 <element name="BOOT_BUTTON" library="Piese_tudose" library_urn="urn:adsk.wipprod:fs.file:vf.1OcNcoLTQzqSI2vLbiFdWQ" package="MYBUTTON" package3d_urn="urn:adsk.eagle:package:47629371/1" value="BUTTON_CUSYOMV1V2" x="24.01" y="108.7888" smashed="yes" rot="R180">
 <attribute name="NAME" x="20.79" y="105.1088" size="1" layer="21"/>
 </element>
-<element uuid="2882400017" name="C1" library="Piese_tudose" library_urn="urn:adsk.wipprod:fs.file:vf.1OcNcoLTQzqSI2vLbiFdWQ" package="EAGLE-LTSPICE_C0402" package3d_urn="urn:adsk.eagle:package:47627288/1" override_locally_modified="yes" value="100nF" x="156.31" y="5.86" smashed="yes" rot="R90">
+<element uuid="2882400017" name="C1" library="Piese_tudose" library_urn="urn:adsk.wipprod:fs.file:vf.1OcNcoLTQzqSI2vLbiFdWQ" package="EAGLE-LTSPICE_C0402" package3d_urn="urn:adsk.eagle:package:47627288/1" value="100nF" x="156.31" y="5.86" smashed="yes" rot="R90">
 <attribute name="NAME" x="155.935" y="3.815" size="1" layer="21" rot="R270"/>
 <attribute name="VALUE" x="156.815" y="7.625" size="1.27" layer="27" rot="R90"/>
 </element>
